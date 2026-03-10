@@ -1,0 +1,18 @@
+/* Make navbar icons solid black */
+.nav-link {
+  color: #000 !important;
+}
+
+/* Keep them black on hover */
+.nav-link:hover {
+  color: #000 !important;
+}
+
+.site-footer {
+  background-color: #292929;
+  color: white;
+}
+
+.site-footer hr {
+  opacity: 0.25;
+}

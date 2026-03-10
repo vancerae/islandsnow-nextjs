@@ -1,3 +1,6 @@
+import 'bootstrap/dist/css/bootstrap.min.css';
+import { Container } from 'react-bootstrap';
+import './style.css';
 import TopMenu from '@/components/TopMenu';
 import IslandSnowLogo from '@/components/IslandSnowLogo';
 import MiddleMenu from '@/components/MiddleMenu';
